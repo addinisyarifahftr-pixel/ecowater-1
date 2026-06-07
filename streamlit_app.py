@@ -253,8 +253,8 @@ elif menu == "ℹ️ Tentang & Referensi":
             <h3>👤 Pembuat Aplikasi</h3>
             <p>Aplikasi ini dikembangkan oleh:</p>
             <ul>
-                <li><b>Nama:</b> Kelompok</li>
-                <li><b>Role:</b> Developer & Environmental Analyst</li>
+                <li><b>Nama:</b> Kelompok 2</li>
+                <li><b>Role:</b> versi 1.0</li>
                 <li><b>Tujuan:</b> Alat bantu praktikum & monitoring IPAL</li>
             </ul>
         </div>
